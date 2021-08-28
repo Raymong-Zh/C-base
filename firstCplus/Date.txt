@@ -1,0 +1,2 @@
+user input date is: 
+23 4 5
